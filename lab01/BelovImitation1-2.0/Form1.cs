@@ -63,7 +63,6 @@ namespace BelovImitation1_2._0
             vy = vy - (g + k * vy * v) * dt;
 
             if (y > ymax) ymax = y;
-            if (x > xmax) xmax = x;
 
             currentSeries.Points.AddXY(x, y);
 
@@ -71,7 +70,7 @@ namespace BelovImitation1_2._0
             {
                 timer1.Stop();
                 maxHeight.Text = ymax.ToString("F2");
-                maxLenght.Text = xmax.ToString("F2");
+                maxLenght.Text = x.ToString("F2");
                 vLast.Text = v.ToString("F2");
             }
 
