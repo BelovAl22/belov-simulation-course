@@ -96,7 +96,7 @@ namespace ForestFire
             lblTemperature = new Label { Text = "Температура: 0°C", Location = new Point(uiX, 160), AutoSize = true };
             this.Controls.Add(lblTemperature);
 
-            trackTemperature = new TrackBar { Location = new Point(uiX, 180), Width = 160, Minimum = 0, Maximum = 100, Value = 0 };
+            trackTemperature = new TrackBar { Location = new Point(uiX, 180), Width = 160, Minimum = 0, Maximum = 50, Value = 0 };
             trackTemperature.Scroll += (s, e) =>
             {
                 temperature = trackTemperature.Value / 50.0;
