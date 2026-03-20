@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ForestFire")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+455aebf20b2cec5a6ecb152781366333c9409a92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07bc059440b0069eb60c16f3eafab989d93a0c24")]
 [assembly: System.Reflection.AssemblyProductAttribute("ForestFire")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ForestFire")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
