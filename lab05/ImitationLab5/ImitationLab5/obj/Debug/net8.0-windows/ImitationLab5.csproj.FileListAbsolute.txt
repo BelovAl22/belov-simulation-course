@@ -1,0 +1,16 @@
+C:\Users\alexa\source\repos\ImitationLab5\ImitationLab5\obj\Debug\net8.0-windows\ImitationLab5.Form1.resources
+C:\Users\alexa\source\repos\ImitationLab5\ImitationLab5\obj\Debug\net8.0-windows\ImitationLab5.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\ImitationLab5\ImitationLab5\obj\Debug\net8.0-windows\ImitationLab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\ImitationLab5\ImitationLab5\obj\Debug\net8.0-windows\ImitationLab5.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\ImitationLab5\ImitationLab5\obj\Debug\net8.0-windows\ImitationLab5.AssemblyInfo.cs
+C:\Users\alexa\source\repos\ImitationLab5\ImitationLab5\obj\Debug\net8.0-windows\ImitationLab5.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\ImitationLab5\ImitationLab5\bin\Debug\net8.0-windows\ImitationLab5.exe
+C:\Users\alexa\source\repos\ImitationLab5\ImitationLab5\bin\Debug\net8.0-windows\ImitationLab5.deps.json
+C:\Users\alexa\source\repos\ImitationLab5\ImitationLab5\bin\Debug\net8.0-windows\ImitationLab5.runtimeconfig.json
+C:\Users\alexa\source\repos\ImitationLab5\ImitationLab5\bin\Debug\net8.0-windows\ImitationLab5.dll
+C:\Users\alexa\source\repos\ImitationLab5\ImitationLab5\bin\Debug\net8.0-windows\ImitationLab5.pdb
+C:\Users\alexa\source\repos\ImitationLab5\ImitationLab5\obj\Debug\net8.0-windows\ImitationLab5.dll
+C:\Users\alexa\source\repos\ImitationLab5\ImitationLab5\obj\Debug\net8.0-windows\refint\ImitationLab5.dll
+C:\Users\alexa\source\repos\ImitationLab5\ImitationLab5\obj\Debug\net8.0-windows\ImitationLab5.pdb
+C:\Users\alexa\source\repos\ImitationLab5\ImitationLab5\obj\Debug\net8.0-windows\ImitationLab5.genruntimeconfig.cache
+C:\Users\alexa\source\repos\ImitationLab5\ImitationLab5\obj\Debug\net8.0-windows\ref\ImitationLab5.dll
