@@ -15,10 +15,32 @@ namespace ImitationLab5
         private Label lblMagic;
         private TextBox txtSeed;
         private Panel panelBall;
-        private string currentAnswer = "...";
 
         private MultiplicativeRandom myRand;
 
+        private readonly string[] gacha =
+        {
+            "Обычный меч",
+            "Обычный щит",
+            "Редкий меч",
+            "Редкий талисман",
+            "Меч 'Тигровый глаз'",
+            "Посох Атиеш",
+            "Грань Бесконечности",
+            "Смертельная шляпа Раббадона",
+        };
+
+        private readonly double[] gachaProb =
+        {
+            0.20,
+            0.40,
+            0.55,
+            0.70,
+            0.80,
+            0.90,
+            0.95,
+            1.00
+        };
         public Form1()
         {
             myRand = new MultiplicativeRandom(67);
@@ -70,6 +92,7 @@ namespace ImitationLab5
             btnMagic.Text = "Предсказать";
             btnMagic.Location = new Point(150, 50);
             btnMagic.Click += BtnMagic_Click;
+            btnMagic.Width = 100;
 
             lblMagic = new Label();
             lblMagic.Text = "...";
@@ -121,19 +144,12 @@ namespace ImitationLab5
         private void BtnMagic_Click(object sender, EventArgs e)
         {
             double r = myRand.NextDouble();
-
-            string result;
-
-            if (r < 0.20) result = "Да";
-            else if (r < 0.40) result = "Нет";
-            else if (r < 0.55) result = "Скорее да";
-            else if (r < 0.70) result = "Скорее нет";
-            else if (r < 0.80) result = "Не знаю";
-            else if (r < 0.90) result = "Спроси позже";
-            else if (r < 0.95) result = "Определённо да";
-            else result = "Определённо нет";
-
-            lblMagic.Text = result;
+            for (int i = 0; i < gachaProb.Length; i++) {
+                if (r < gachaProb[i]) {
+                    lblMagic.Text = gacha[i];
+                    break;
+                }
+            }
         }
     }
 }

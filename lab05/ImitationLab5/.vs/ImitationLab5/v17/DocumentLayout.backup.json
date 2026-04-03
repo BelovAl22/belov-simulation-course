@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexa\\source\\repos\\ImitationLab5\\",
+  "WorkspaceRootPath": "C:\\Users\\st23.46\\Downloads\\belov-simulation-course-main (1)\\belov-simulation-course-main\\lab05\\ImitationLab5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73F7D8B1-9303-438D-9F1E-FAA5CFF65B9A}|ImitationLab5\\ImitationLab5.csproj|c:\\users\\alexa\\source\\repos\\imitationlab5\\imitationlab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73F7D8B1-9303-438D-9F1E-FAA5CFF65B9A}|ImitationLab5\\ImitationLab5.csproj|c:\\users\\st23.46\\downloads\\belov-simulation-course-main (1)\\belov-simulation-course-main\\lab05\\imitationlab5\\imitationlab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73F7D8B1-9303-438D-9F1E-FAA5CFF65B9A}|ImitationLab5\\ImitationLab5.csproj|solutionrelative:imitationlab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\ImitationLab5\\ImitationLab5\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\st23.46\\Downloads\\belov-simulation-course-main (1)\\belov-simulation-course-main\\lab05\\ImitationLab5\\ImitationLab5\\Form1.cs",
               "RelativeDocumentMoniker": "ImitationLab5\\Form1.cs",
-              "ToolTip": "C:\\Users\\alexa\\source\\repos\\ImitationLab5\\ImitationLab5\\Form1.cs*",
+              "ToolTip": "C:\\Users\\st23.46\\Downloads\\belov-simulation-course-main (1)\\belov-simulation-course-main\\lab05\\ImitationLab5\\ImitationLab5\\Form1.cs*",
               "RelativeToolTip": "ImitationLab5\\Form1.cs*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAiwCkAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAjwJIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T18:00:26.252Z",
               "EditorCaption": ""
