@@ -1,0 +1,9 @@
+C:\Users\alexa\source\repos\IMlab7.2\IMlab7.2\obj\Debug\IMlab7.2.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\IMlab7.2\IMlab7.2\obj\Debug\IMlab7._2.Properties.Resources.resources
+C:\Users\alexa\source\repos\IMlab7.2\IMlab7.2\obj\Debug\IMlab7.2.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\IMlab7.2\IMlab7.2\obj\Debug\IMlab7.2.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\IMlab7.2\IMlab7.2\bin\Debug\IMlab7.2.exe.config
+C:\Users\alexa\source\repos\IMlab7.2\IMlab7.2\bin\Debug\IMlab7.2.exe
+C:\Users\alexa\source\repos\IMlab7.2\IMlab7.2\bin\Debug\IMlab7.2.pdb
+C:\Users\alexa\source\repos\IMlab7.2\IMlab7.2\obj\Debug\IMlab7.2.exe
+C:\Users\alexa\source\repos\IMlab7.2\IMlab7.2\obj\Debug\IMlab7.2.pdb
