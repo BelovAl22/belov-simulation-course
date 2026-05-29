@@ -30,6 +30,55 @@ namespace IMlab7._2
             InitMatrix();
         }
 
+        private bool ValidateMatrix()
+        {
+            try
+            {
+                for (int i = 0; i < 3; i++)
+                {
+                    double rowSum = 0;
+
+                    for (int j = 0; j < 3; j++)
+                    {
+                        double value =
+                            Convert.ToDouble(dgvQ.Rows[i].Cells[j].Value);
+
+                        // Диагональ
+                        if (i == j)
+                        {
+                            if (value >= 0)
+                            {
+                                MessageBox.Show($"Диагональный элемент [{i},{j}] должен быть отрицательным");
+                                return false;
+                            }
+                        }
+                        else
+                        {
+                            //Остальные элементы >=0
+                            if (value < 0)
+                            {
+                                MessageBox.Show($"Элемент [{i},{j}] должен быть положительным");
+                                return false;
+                            }
+                        }
+
+                        rowSum += value;
+                    }
+
+                    if (Math.Abs(rowSum) > 0.01)
+                    {
+                        MessageBox.Show($"Сумма строки {i} должна быть равна 0");
+                        return false;
+
+                    }
+                }
+
+                return true;
+            } catch {
+                MessageBox.Show("Введите число через запятую.");
+                return false; }
+
+        }
         private void SetupGrids()
         {
             dgvQ.ColumnCount = 3;
@@ -95,6 +144,10 @@ namespace IMlab7._2
 
         private async void btnStart_Click(object sender, EventArgs e)
         {
+            if (!ValidateMatrix())
+                return;
+
+
             if (running) return;
             try
             {
@@ -104,6 +157,7 @@ namespace IMlab7._2
                         Q[i, j] = SafeDouble(dgvQ[j, i].Value);
             }
             catch { MessageBox.Show("Проверьте формат чисел в матрице!"); return; }
+
 
             CalculateTheoretical();
             running = true;
