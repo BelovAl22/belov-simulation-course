@@ -1,0 +1,9 @@
+C:\Users\alexa\source\repos\simlab8\simlab8\bin\Debug\simlab8.exe.config
+C:\Users\alexa\source\repos\simlab8\simlab8\bin\Debug\simlab8.exe
+C:\Users\alexa\source\repos\simlab8\simlab8\bin\Debug\simlab8.pdb
+C:\Users\alexa\source\repos\simlab8\simlab8\obj\Debug\simlab8.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\simlab8\simlab8\obj\Debug\simlab8.Properties.Resources.resources
+C:\Users\alexa\source\repos\simlab8\simlab8\obj\Debug\simlab8.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\simlab8\simlab8\obj\Debug\simlab8.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\simlab8\simlab8\obj\Debug\simlab8.exe
+C:\Users\alexa\source\repos\simlab8\simlab8\obj\Debug\simlab8.pdb

@@ -72,10 +72,9 @@ namespace IMlab7._2
 
                     }
                 }
-
                 return true;
             } catch {
-                MessageBox.Show("Введите число через запятую.");
+                MessageBox.Show("Ошибка ввода матрицы.");
                 return false; }
 
         }
