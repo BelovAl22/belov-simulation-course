@@ -1,0 +1,9 @@
+C:\Users\alexa\source\repos\lab9\lab9\bin\Debug\lab9.exe.config
+C:\Users\alexa\source\repos\lab9\lab9\bin\Debug\lab9.exe
+C:\Users\alexa\source\repos\lab9\lab9\bin\Debug\lab9.pdb
+C:\Users\alexa\source\repos\lab9\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\lab9\lab9\obj\Debug\lab9.Properties.Resources.resources
+C:\Users\alexa\source\repos\lab9\lab9\obj\Debug\lab9.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\lab9\lab9\obj\Debug\lab9.exe
+C:\Users\alexa\source\repos\lab9\lab9\obj\Debug\lab9.pdb
